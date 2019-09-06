@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@testing-library/react": "^9.1.4",
+    "jest-dom": "^4.0.0"
+  },
+  "name": "Web-Application-Testingk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/XAmi101/Web-Application-Testing.git",
+  "author": "XAmi101 <famousvacancy@gmail.com>",
+  "license": "MIT"
+}
